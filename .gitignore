@@ -16,3 +16,9 @@ data.hdf5
 test_dir
 *.hdr
 *.img
+
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
